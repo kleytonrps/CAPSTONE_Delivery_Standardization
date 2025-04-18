@@ -29,12 +29,6 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 
  
 ## 1. Capstone Project 2025 - Delivery Standardization
-<p align="left" style="margin: 0; line-height: 1;">
-   <span style="font-size: 16px; vertical-align: middle; margin-right: 10px;">Home Credit Competition</span>
-   <a href="https://www.kaggle.com/competitions/home-credit-default-risk">
-      <img src="images/kaggle_logo.png" alt="Kaggle Logo" style="width: 18%; max-width: 1000px; display: inline-block; vertical-align: middle;" />
-   </a>
-</p>
 
 [Home Credit RMarkdown code](https://github.com/kleytonrps/Home_Credit_Project/blob/main/Home_Credit_Kleyton.qmd)
 
