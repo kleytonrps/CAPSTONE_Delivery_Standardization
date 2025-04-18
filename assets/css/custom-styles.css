@@ -1,0 +1,21 @@
+details summary {
+  font-size: 1.2em;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+details[open] summary {
+  background-color: #d0e6f4;
+}
+
+details div {
+  padding-left: 20px;
+}
+img.avatar {
+  border-radius: 50%;
+  width: 150px;  /* Ajuste o tamanho conforme necessário */
+  height: 150px;  /* Ajuste o tamanho conforme necessário */
+}
