@@ -34,7 +34,7 @@ Capstone 2025
 
 [Delivery Standardization RMarkdown Code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Project.qmd)
 
-[Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
+[Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Project.pdf)
 
 
 **Business problem and project objective**
