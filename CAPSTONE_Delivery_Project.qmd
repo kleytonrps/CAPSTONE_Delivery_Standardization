@@ -1,6 +1,6 @@
 ---
-title: "MSBA Capstone 2025 - Delivery Project"
-author: "Kleyton R. Polzonoff Silveira"
+title: "MSBA Capstone 2025 - Delivery Standardization"
+author: "Kleyton R. Polzonoff"
 date: today
 format:
   html:
