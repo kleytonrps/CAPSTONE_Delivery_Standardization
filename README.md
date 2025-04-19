@@ -27,6 +27,25 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 <br>
 <hr>
 
+<details>
+  <summary><strong>Projects by Year</strong></summary>
+
+  <details>
+    <summary><strong>2025</strong></summary>
+    <ul>
+      <li><a href="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization">CAPSTONE Delivery Standardization</a> – Final Project for MSBA, University of Utah</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>2024</strong></summary>
+    <ul>
+      <li><a href="https://github.com/kleytonrps/Home_Credit_Project">Home Credit Risk Classification</a> – Kaggle Competition project</li>
+    </ul>
+  </details>
+
+</details>
+
  
 ## 1. Capstone Project 2025 - Delivery Standardization
 
