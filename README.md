@@ -30,7 +30,8 @@ Welcome to my portfolio, where I share my learning journey in business analytics
  
 ## 1. Capstone Project 2025 - Delivery Standardization
 
-[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Standardization/CAPSTONE_Delivery_Project.qmd)
+[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Project.qmd)
+
 
 [CAPSTONE Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
 
