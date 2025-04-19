@@ -56,9 +56,8 @@ The goal was to address logistics challenges and transform decisions into data-d
 Supervised learning techniques were applied to determine whether each customer should be served by Red Trucks or White Trucks (ARTM), based on a defined set of criteria. Additionally, a clustering analysis identified customer groups with similar consumption patterns, allowing for refined fleet allocation and enhanced decision-making rules.
 
 <p align="center">
-   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/CAPSTONE_Delivery_Standardization/plots/imagem%201.jpg?raw=true" alt="Imagem 1" width="600" />
+   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/plots/imagem%201.jpg" alt="Imagem 1" width="600" />
 </p>
-
 
 **Solution**
 
