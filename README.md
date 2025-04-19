@@ -1,4 +1,6 @@
+🌱🌽🌾🌿🌻 🇧🇷 🇺🇸  
 # Agronomic Data Scientist
+
 
 Welcome to my portfolio, where I share my learning journey in business analytics. These projects show my growing skills in data analysis, predictive modeling, and making decisions based on data.
 
@@ -27,14 +29,12 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 <br>
 <hr>
 
- 
-## 1. Capstone Project 2025 - Delivery Standardization
+## Delivery Standardization
+Capstone 2025
 
-[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Standardization/CAPSTONE_Delivery_Project.qmd)
+[Delivery Standardization RMarkdown Code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Project.qmd)
 
-
-[CAPSTONE Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
-
+[Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
 
 
 **Business problem and project objective**
@@ -106,5 +106,16 @@ It’s clear that predicting future growth, even with extensive data, is a compl
 Looking ahead, I strongly recommend conducting further tests to measure the impact of fleet allocation and the way customers place orders. This will be crucial in validating or refining the current approach. Additionally, analyzing revenue could provide deeper business insights, especially in understanding margins across different customer segments.
 
 A key takeaway from this project is that data doesn’t always provide all the answers we need for decision-making. In these cases, history shows that there will be both successes and setbacks, but decisions still need to be made. My role was to make responsible recommendations and take a clear stance, even when faced with uncertainties.
+
+---
+
+## 📊 Past Projects
+
+### 2024  
+- 🔗 [Home Credit Risk Classification](https://kleytonrps.github.io/Home_Credit_Project/) – Kaggle-based risk scoring with real-world financial data  
+
+
+
+
 
 
