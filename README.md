@@ -29,15 +29,16 @@ Welcome to my portfolio, where I share my learning journey in business analytics
 <br>
 <hr>
 
-## Capstone Project 2025 - Delivery Standardization
+## Delivery Standardization
+Capstone 2025
 
-[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Project.qmd)
+[Delivery Standardization RMarkdown Code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Project.qmd)
 
-[CAPSTONE Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
+[Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
 
 
 **Business problem and project objective**
-
+![Business Problem](https://media.giphy.com/media/xT5LMz8J7x6UBwWcze/giphy.gif)
 The client needs a structured system to optimize logistics between its own fleet of Red Trucks and alternative delivery methods (ARTM), which include partner trucks and third-party carriers known as White Trucks. Red Trucks enhance customer relationships and contribute to revenue, while ARTM offers flexibility but limits interaction and control.
 
 To ensure high-quality service and cost efficiency, I will establish clear fleet allocation guidelines based on customer profiles, transaction data, addresses, and delivery costs. This approach will determine the optimal truck type for each customer using a well-defined annual volume threshold. Additionally, customer segmentation will identify shared characteristics, enabling more strategic and data-driven decision-making.
