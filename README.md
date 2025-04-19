@@ -30,9 +30,11 @@ Welcome to my portfolio, where I share my learning journey in business analytics
  
 ## 1. Capstone Project 2025 - Delivery Standardization
 
-[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/CAPSTONE_Delivery_Standardization.qmd)
+[CAPSTONE Delivery Standardization RMarkdown code](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/CAPSTONE_Delivery_Standardization/CAPSTONE_Delivery_Project.qmd)
 
-[CAPSTONE Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
+
+[CAPSTONE Delivery Standardization PDF](https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/pdf%20files/CAPSTONE_Delivery_Standardization.pdf)
+
 
 
 **Business problem and project objective**
@@ -56,7 +58,7 @@ The goal was to address logistics challenges and transform decisions into data-d
 Supervised learning techniques were applied to determine whether each customer should be served by Red Trucks or White Trucks (ARTM), based on a defined set of criteria. Additionally, a clustering analysis identified customer groups with similar consumption patterns, allowing for refined fleet allocation and enhanced decision-making rules.
 
 <p align="center">
-   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/blob/main/plots/imagem%201.jpg" alt="Imagem 1" width="600" />
+   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/raw/main/plots/imagem%201.jpg" alt="Imagem 1" width="600" />
 </p>
 
 **Solution**
@@ -64,13 +66,14 @@ Supervised learning techniques were applied to determine whether each customer s
 This project successfully integrated data-driven conclusions with business decisions, making the fleet assignment process one with significant potential for success. A key differentiator in this process was the feature engineering, which brought robustness to the models and generated consistent, reasonable impacts. Notably, the adaptation of RFM and the method developed for calculating customer growth stood out.
 
 <p align="center">
-   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/CAPSTONE_Delivery_Standardization/plots/imagem%203.jpg?raw=true" alt="Imagem 3" width="600" />
+   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/raw/main/plots/imagem%203.jpg" alt="Imagem 3" width="600" />
 </p>
+
 
 The established process was transparent, replicable, and simple, ensuring a clear understanding of the decisions leading up to the fleet assignment. For instance, the supervised models, Decision Tree and Multinomial Logistic Regression, were critical in explaining the variables that influenced customer segmentation. With their accuracy raised to nearly 90%, these models had the potential to predict segments for new customers, enhancing logistics efficiency and decision-making.
 
 <p align="center">
-   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/CAPSTONE_Delivery_Standardization/plots/plot%204.jpg?raw=true" alt="Plot 4" width="600" />
+   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/raw/main/plots/plot%204.jpg" alt="Plot 4" width="600" />
 </p>
 
 
@@ -79,8 +82,9 @@ The established process was transparent, replicable, and simple, ensuring a clea
 The proposed fleet reassignment strategy has the potential to save approximately $770,000 for the company over the past two years. This is achieved by increasing the number of customers served by red trucks, optimizing their usage frequency, and reducing their volume by 3%, allowing for the eventual redeployment to strategic customers.
 
 <p align="center">
-   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Project/blob/main/CAPSTONE_Delivery_Standardization/plots/plot%205.jpg?raw=true" alt="Plot 5" width="600" />
+   <img src="https://github.com/kleytonrps/CAPSTONE_Delivery_Standardization/raw/main/plots/plot%205.jpg" alt="Plot 5" width="600" />
 </p>
+
 
 The proposal was fairly conservative, redesigning the delivery method for only 14% of the customers. It successfully assigned the fleet based on volume as well as several intrinsic customer characteristics. As a result, the expectation is that, after its implementation, there will be not only cost reductions but also an increase in sales, particularly for customers with greater growth potential. Furthermore, the proposal helped identify three main customer groups, two of which showed strong homogeneity.
 
