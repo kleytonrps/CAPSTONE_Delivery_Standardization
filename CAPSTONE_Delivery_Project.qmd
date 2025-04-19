@@ -1,5 +1,5 @@
 ---
-title: "MSBA Capstone 2025 - Delivery Standardization"
+title: "Delivery Standardization - MSBA Capstone 2025"
 author: "Kleyton R. Polzonoff"
 date: today
 format:
@@ -1316,7 +1316,7 @@ After the first portion of the EDA, there is a better understanding of the data,
 
 - Adding an ID for individual account executives to the customer profile data could be valuable. Is the quality of the account executive a confounding variable when looking at high growth rate customers?
 
-- Does SCCU set a delivery deadline in days or hours?
+- Does the company set a delivery deadline in days or hours?
 
 ## 4. Exploratory Data Analysis (EDA) - Part II
 
@@ -1340,7 +1340,7 @@ ggplot() +
              color = "#B33951", alpha = 0.6, size = 0.5) +
   coord_fixed(1.3) +
   theme_minimal() +
-  labs(title = "SCCU Customers Geographical Distribution") +
+  labs(title = "Customers Geographical Distribution") +
   theme(axis.text.x = element_blank(),
         axis.text.y = element_blank(),
         axis.title.x = element_blank(),
@@ -1396,7 +1396,7 @@ avg_cost_per_quantity  # Average cost per case or gallon delivered
 
 After removing customers who did not make any transactions in 2023 and 2024, there are  
 **30,320 unique customers** who made transactions during these years.  
-Of these, **18,061 are unique outlets**, while **12,259 belong to 1,020 different chains** that have transacted with SCCU.
+Of these, **18,061 are unique outlets**, while **12,259 belong to 1,020 different chains** that have transacted with the company.
 
 All of their delivery transactions represented a total cost of approximately **$67,907,394**,  
 with an average of **$55.8 per delivery transaction** and **$1.88 per case or gallon delivered**.
@@ -3922,6 +3922,7 @@ rm(list = vars_to_remove)
 rm(all_vars, vars_to_remove)
 ```
 
+
 ## 5. Feature Engineering
 
 Considering all the previous analyses, the goal now is to complement the information that can enhance the robustness of the modeling process. Several feature engineering techniques were attempted, but only the most relevant ones will be described.
@@ -5908,6 +5909,8 @@ ggplot(plot_data_filtered, aes(x = factor(CLUSTER), y = value, fill = factor(CLU
 - Total Ordered Volume: The average total ordered volume per customer in 2023 and 2024 is around 80 gallons, while the median is 57 gallons, indicating a large number of customers with smaller volumes.  
 - Volume Share: This cluster represents only 1.7% of the total volume consumed in 2023 and 2024.  
 - The cluster shows orders concentrated through call centers, digital channels, and sales representatives, although in smaller absolute quantities compared to the other clusters.
+
+
 
 ## 8. Classification Models for Explaining Clusters
 
@@ -8672,6 +8675,20 @@ ggplot(filtered_local_fount) +
     legend.position = "bottom"
   )
 
+# List all variables in the environment
+all_vars <- ls()
+
+# Exclude 'full_data', 'full_data_customer', and the new variables from removal
+vars_to_keep <- c("full_data", "full_data_customer","mydir", "one_seed", "reference_date")
+
+# Get the variables to remove
+vars_to_remove <- setdiff(all_vars, vars_to_keep)
+
+# Remove the temporary data frames
+rm(list = vars_to_remove)
+
+# Clean up by removing 'all_vars' and 'vars_to_remove'
+rm(all_vars, vars_to_remove)
 ```
 Among the local market partners with fountain drink only, nearly 90% of the fleet changes would occur in the Dining segment. In this group, 85 customers would switch from white trucks to red trucks, and 45 would switch from red trucks to white trucks.
 
